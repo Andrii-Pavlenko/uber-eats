@@ -1,2 +1,2 @@
 
-[Link](https://andrii-pavlenko.github.io/react_uber-eats/)
+[Link](https://andrii-pavlenko.github.io/uber-eats/)
